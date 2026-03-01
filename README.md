@@ -57,8 +57,9 @@ The architecture includes secure access to the S3 bucket with **Origin Access Co
 - ![S3 Bucket Properties](screenshots/01-s3-bucket-properties.png)
 - ![S3 Permissions](screenshots/02-s3-permissions.png)
 - ![CloudFront Distribution](screenshots/03-cloudfront-distribution.png)
-- ![S3 Access Denied Error](screenshots/04-s3-access-denied-error.png)
-- ![Architecture Diagram](screenshots/05-architecture-diagram.png)
+- ![CloudFront Website Access](screenshots/04-cloudfront-website-access.png)
+- ![CloudFront Access Denied Error](screenshots/05-cloudfront-access-denied-error.png)
+- ![Architecture Diagram](screenshots/06-architecture-diagram.png)
 
 ---
 
